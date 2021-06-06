@@ -33,3 +33,10 @@ See the demo below:
   <img class="zoom-img-2x" src="image-url-here" />
 </div>
 ```
+
+---
+
+# Demo
+Use this demo to see how it works.
+
+[DEMO](https://jsfiddle.net/a1rph4z9/ "Demo").
