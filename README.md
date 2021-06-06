@@ -1,2 +1,35 @@
-# image-zoom
-Zoom image on hover
+# Image zoom
+Zoom images on hover
+
+---
+
+# Description
+This simple module is supposed to zoom images on hover in plain html. Read the docs below to see how.
+
+---
+
+# Usage
+
+Its very simple, just import the css files using 
+```html
+<link rel="stylesheet" href="https://raw.githubusercontent.com/KK-Designs/image-zoom/main/image-zoom.min.css">
+```
+
+Use it with the following code: 
+
+```html
+<div class="zoom-img-wrapper">
+  <img class="zoom-img-default" src="image-url-here/>
+</div>
+```
+
+You can change the zoom intensity with the following:
+```html
+<div class="zoom-img-wrapper">
+  <!--
+Values from 2x to 10x supported
+See the demo below:
+  -->
+  <img class="zoom-img-2x" src="image-url-here/>
+</div>
+```
