@@ -1,8 +1,8 @@
 .zoom-img-wrapper {
   display: inline-block;
   box-sizing: border-box;
-  width: 400px;
-  height: 400px;
+  /*width: 400px;
+  height: 400px;*/
   overflow: hidden; 
 }
 
