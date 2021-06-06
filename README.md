@@ -19,7 +19,7 @@ Use it with the following code:
 
 ```html
 <div class="zoom-img-wrapper">
-  <img class="zoom-img-default" src="image-url-here/>
+  <img class="zoom-img-default" src="image-url-here" />
 </div>
 ```
 
@@ -30,6 +30,6 @@ You can change the zoom intensity with the following:
 Values from 2x to 10x supported
 See the demo below:
   -->
-  <img class="zoom-img-2x" src="image-url-here/>
+  <img class="zoom-img-2x" src="image-url-here" />
 </div>
 ```
