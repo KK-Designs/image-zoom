@@ -12,7 +12,7 @@ This simple module is supposed to zoom images on hover in plain html. Read the d
 
 Its very simple, just import the css files using 
 ```html
-<link rel="stylesheet" href="https://raw.githubusercontent.com/KK-Designs/image-zoom/main/image-zoom.min.css">
+<link rel="stylesheet" href="https://kk-designs.github.io/image-zoom/image-zoom.css">
 ```
 
 Use it with the following code: 
