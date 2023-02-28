@@ -11,7 +11,7 @@
 
     endlocal
     timeout /t 2 >nul
-    powershell -Command "(New-Object Net.WebClient).DownloadFile('https://github.com/KK-Designs/image-zoom/blob/main/image-zoom-main.zip?raw=true', 'image-zoom.zip')"
+    powershell -Command "(New-Object Net.WebClient).DownloadFile('https://github.com/KK-Designs/image-zoom/archive/refs/heads/main.zip', 'image-zoom.zip')"
     echo  & echo. Installed "image-zoom.zip" successfuly!
     timeout /t 3 >nul
     exit /b
